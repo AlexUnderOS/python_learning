@@ -1,0 +1,1 @@
+print('Steve Jobs once said, "Don' "'" 't let the noise of other' "'" 's opinions drown out your own inner voice."')
